@@ -31,19 +31,19 @@ video { display: block; width: 100%; height: auto; }
     top: 0;
     left: 70%;
     font-family: "lato" ;
-    font-size: 0.75vw;
+    font-size: 3vw;
 }
 .nav3 {
     position: absolute;
     top: 0;
     left: 80%;
     font-family: "lato" ;
-    font-size: 0.75vw;
+    font-size: 3vw;
 }
  .nav4 {
     position: absolute;
     top: 0;
     left: 90%;
     font-family: "lato" ;
-     font-size: 0.75vw;
+     font-size: 3vw;
 }  
