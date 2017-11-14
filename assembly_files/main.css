@@ -149,7 +149,7 @@ video { display: block; width: 100%; height: auto; }
 .nav1{
     position: absolute;
     top: 2%;
-	left: 10%;
+	left: 5%;
     font-family: "lato" ;
 	font-size: 1.2vw;
 	z-index: 2;
