@@ -2,7 +2,30 @@
  * Start Bootstrap - Grayscale v4.0.0-beta.2 (https://startbootstrap.com/template-overviews/grayscale)
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
- */body
+ */
+.listoflogos
+{
+    
+    max-width:66.6667%;
+    margin-left: auto;
+    margin-right: auto;
+
+
+    }
+.logos
+{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 15px;
+   
+    height: 200px;
+
+
+
+}
+
+
+body
  {
      font-family:'Work Sans', sans-serif;
 
