@@ -3,27 +3,36 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
  */
-.listoflogos
+.listoflogos1
 {
-    
-    max-width:80%;
     margin-left: auto;
     margin-right: auto;
-
+    max-width: 25%;
 
     }
+
+    .listoflogos2
+    {
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 36%;
+    
+        }
 .logos
 {
     border: 1px solid #ddd;
     border-radius: 4px;
     padding: 15px;
-   
-    height: 180px;
-
-
-
+    width: 175px;
 }
-
+.logomain
+{
+    padding-left: 10%;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 15px;
+    height: 250px;
+}
 
 body
  {
